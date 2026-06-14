@@ -31,3 +31,7 @@ Sistema de gestión de streamers hecho en Python con SQLite. Permite registrar u
 Andres Gelvez  
 github.com/andresgelvezdev  
 linkedin.com/in/andres-gelvez
+
+## Demo
+
+[Ver demo en YouTube](https://youtu.be/KB88Z_M1ZEE)
